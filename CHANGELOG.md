@@ -23,8 +23,12 @@ Raising it strands everyone below it, so it is edited deliberately and never as 
 
 ---
 
-## 0.34.0 — 2026-09-05
+## 0.35.0 — 2026-09-05
 
 - The app now installs like a normal Windows program, and updates itself from then on
 - It asks before restarting, and never restarts while Path of Exile is running
 - If an update can't install itself, it tells you where to get it instead of failing quietly
+- It now says so when you price-check a PoE1 item while it is set to PoE2, instead of quietly
+  searching the wrong market
+- Settings points out when a newer league has started, instead of leaving you pricing against
+  last league's economy
