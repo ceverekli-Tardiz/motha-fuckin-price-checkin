@@ -1,9 +1,9 @@
 {
-  "version": "0.35.1",
+  "version": "0.35.2",
   "url": "https://github.com/ceverekli-Tardiz/motha-fuckin-price-checkin/releases/latest",
   "minimum_supported": "0.0.0",
   "notes": [
-    "If you are reading this inside the app, it just updated itself — which is the entire point of this release",
-    "Every download now carries a checksum, so you can check that the file you got is the file we built"
+    "Settings now has the **Restart now** button next to the message that tells you an update is waiting — before, the only button lived on the price-check window, so it was possible to have a downloaded update and nowhere to install it from",
+    "Right-clicking the tray icon offers the same thing"
   ]
 }

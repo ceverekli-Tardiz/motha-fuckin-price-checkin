@@ -23,6 +23,13 @@ Raising it strands everyone below it, so it is edited deliberately and never as 
 
 ---
 
+## 0.35.2 — 2026-09-06
+
+- Settings now has the **Restart now** button next to the message that tells you an update is
+  waiting — before, the only button lived on the price-check window, so it was possible to have a
+  downloaded update and nowhere to install it from
+- Right-clicking the tray icon offers the same thing
+
 ## 0.35.1 — 2026-09-06
 
 - If you are reading this inside the app, it just updated itself — which is the entire point of
