@@ -23,6 +23,15 @@ Raising it strands everyone below it, so it is edited deliberately and never as 
 
 ---
 
+## 0.37.0 — 2026-09-06
+
+- **Nothing is downloaded without asking you.** When a new version turns up you get a proper
+  window with three answers: download and restart now, download only and install later, or not now
+- The check still happens by itself when you open Settings — only the downloading and the
+  installing are yours to decide
+- Saying *not now* closes the window without throwing the update away; it stays in Settings and on
+  the tray icon whenever you want it
+
 ## 0.36.1 — 2026-09-06
 
 - The league list works again for Path of Exile 2. It was arriving from the trade site all along
