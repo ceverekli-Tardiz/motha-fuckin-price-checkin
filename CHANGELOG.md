@@ -23,6 +23,12 @@ Raising it strands everyone below it, so it is edited deliberately and never as 
 
 ---
 
+## 0.37.1 — 2026-09-06
+
+- Fixed the app quietly losing its own log file. If it could not be opened at startup — a moment's
+  bad luck was enough — the app kept working perfectly and never wrote another line, which is
+  exactly when you most want it. It now retries, falls back to another file, and says which one
+
 ## 0.37.0 — 2026-09-06
 
 - **Nothing is downloaded without asking you.** When a new version turns up you get a proper

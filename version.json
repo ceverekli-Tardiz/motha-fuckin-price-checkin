@@ -1,10 +1,8 @@
 {
-  "version": "0.37.0",
+  "version": "0.37.1",
   "url": "https://github.com/ceverekli-Tardiz/motha-fuckin-price-checkin/releases/latest",
   "minimum_supported": "0.0.0",
   "notes": [
-    "**Nothing is downloaded without asking you.** When a new version turns up you get a proper window with three answers: download and restart now, download only and install later, or not now",
-    "The check still happens by itself when you open Settings — only the downloading and the installing are yours to decide",
-    "Saying *not now* closes the window without throwing the update away; it stays in Settings and on the tray icon whenever you want it"
+    "Fixed the app quietly losing its own log file. If it could not be opened at startup — a moment's bad luck was enough — the app kept working perfectly and never wrote another line, which is exactly when you most want it. It now retries, falls back to another file, and says which one"
   ]
 }
