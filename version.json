@@ -1,10 +1,9 @@
 {
-  "version": "0.35.0",
+  "version": "0.35.1",
   "url": "https://github.com/ceverekli-Tardiz/motha-fuckin-price-checkin/releases/latest",
   "minimum_supported": "0.0.0",
   "notes": [
-    "The app now installs like a normal Windows program, and updates itself from then on",
-    "It asks before restarting, and never restarts while Path of Exile is running",
-    "If an update can't install itself, it tells you where to get it instead of failing quietly"
+    "If you are reading this inside the app, it just updated itself — which is the entire point of this release",
+    "Every download now carries a checksum, so you can check that the file you got is the file we built"
   ]
 }

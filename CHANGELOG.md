@@ -23,6 +23,13 @@ Raising it strands everyone below it, so it is edited deliberately and never as 
 
 ---
 
+## 0.35.1 — 2026-09-06
+
+- If you are reading this inside the app, it just updated itself — which is the entire point of
+  this release
+- Every download now carries a checksum, so you can check that the file you got is the file we
+  built
+
 ## 0.35.0 — 2026-09-05
 
 - The app now installs like a normal Windows program, and updates itself from then on
