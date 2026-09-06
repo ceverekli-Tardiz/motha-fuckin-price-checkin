@@ -23,6 +23,15 @@ Raising it strands everyone below it, so it is edited deliberately and never as 
 
 ---
 
+## 0.36.0 — 2026-09-06
+
+- **Restart now** means restart now. It no longer refuses because Path of Exile is open, and it no
+  longer sits there for several seconds before doing anything — it says *"Installing…"* the moment
+  you press it and the app comes back on its own
+- Opening Settings checks for a new version by itself, so you are not pressing a button to find out
+- The update offer now appears in Settings and on the tray icon menu too, not only on the
+  price-check window
+
 ## 0.35.2 — 2026-09-06
 
 - Settings now has the **Restart now** button next to the message that tells you an update is

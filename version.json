@@ -1,9 +1,10 @@
 {
-  "version": "0.35.2",
+  "version": "0.36.0",
   "url": "https://github.com/ceverekli-Tardiz/motha-fuckin-price-checkin/releases/latest",
   "minimum_supported": "0.0.0",
   "notes": [
-    "Settings now has the **Restart now** button next to the message that tells you an update is waiting — before, the only button lived on the price-check window, so it was possible to have a downloaded update and nowhere to install it from",
-    "Right-clicking the tray icon offers the same thing"
+    "**Restart now** means restart now. It no longer refuses because Path of Exile is open, and it no longer sits there for several seconds before doing anything — it says *\"Installing…\"* the moment you press it and the app comes back on its own",
+    "Opening Settings checks for a new version by itself, so you are not pressing a button to find out",
+    "The update offer now appears in Settings and on the tray icon menu too, not only on the price-check window"
   ]
 }
