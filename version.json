@@ -1,10 +1,9 @@
 {
-  "version": "0.36.0",
+  "version": "0.36.1",
   "url": "https://github.com/ceverekli-Tardiz/motha-fuckin-price-checkin/releases/latest",
   "minimum_supported": "0.0.0",
   "notes": [
-    "**Restart now** means restart now. It no longer refuses because Path of Exile is open, and it no longer sits there for several seconds before doing anything — it says *\"Installing…\"* the moment you press it and the app comes back on its own",
-    "Opening Settings checks for a new version by itself, so you are not pressing a button to find out",
-    "The update offer now appears in Settings and on the tray icon menu too, not only on the price-check window"
+    "The league list works again for Path of Exile 2. It was arriving from the trade site all along and being thrown away before it reached you, which is why the league had to be typed by hand",
+    "Because of that, the \"a newer league has started\" warning could never fire for PoE2 — it had no list to compare against. It can now"
   ]
 }

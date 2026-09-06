@@ -23,6 +23,13 @@ Raising it strands everyone below it, so it is edited deliberately and never as 
 
 ---
 
+## 0.36.1 — 2026-09-06
+
+- The league list works again for Path of Exile 2. It was arriving from the trade site all along
+  and being thrown away before it reached you, which is why the league had to be typed by hand
+- Because of that, the "a newer league has started" warning could never fire for PoE2 — it had no
+  list to compare against. It can now
+
 ## 0.36.0 — 2026-09-06
 
 - **Restart now** means restart now. It no longer refuses because Path of Exile is open, and it no
