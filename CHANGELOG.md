@@ -23,6 +23,11 @@ Raising it strands everyone below it, so it is edited deliberately and never as 
 
 ---
 
+## 0.58.0 — 2026-11-22
+
+- Viscera (the Wickerman body parts) can be price-checked now, "Greater" ones included, matched on the bonus they grant.
+- Filters for this league's new modifiers are no longer switched off as if they did not exist.
+
 ## 0.57.2 — 2026-11-22
 
 - Cluster jewels now search by what they actually are: their small-passive type (e.g. Brand Damage) and exact passive count. Ticking that line used to find nothing.
