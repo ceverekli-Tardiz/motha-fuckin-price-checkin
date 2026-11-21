@@ -1,8 +1,10 @@
 {
-  "version": "0.37.1",
+  "version": "0.57.2",
   "url": "https://github.com/ceverekli-Tardiz/motha-fuckin-price-checkin/releases/latest",
   "minimum_supported": "0.0.0",
   "notes": [
-    "Fixed the app quietly losing its own log file. If it could not be opened at startup — a moment's bad luck was enough — the app kept working perfectly and never wrote another line, which is exactly when you most want it. It now retries, falls back to another file, and says which one"
+    "Cluster jewels now search by what they actually are: their small-passive type (e.g. Brand Damage) and exact passive count. Ticking that line used to find nothing.",
+    "Cluster jewels with notables no longer require the minor \"also grant\" bonuses, so more real comparables come back.",
+    "Vaal skill gems (Vaal Arctic Armour, Vaal Venom Gyre…) are priced as the Vaal gem now, instead of as the plain version of the skill."
   ]
 }
