@@ -23,6 +23,12 @@ Raising it strands everyone below it, so it is edited deliberately and never as 
 
 ---
 
+## 0.60.0 — 2026-11-22
+
+- New Challenges tab in the Stash Tracker: your league challenge progress, read straight from your pathofexile.com profile, showing only what is left to do.
+- Every remaining step has a short how-to note, and challenges are grouped by when to do them: cheap and quick, while mapping, late game, and skip.
+- Press Refresh after finishing something and the list updates on the spot — no ticking things off by hand.
+
 ## 0.59.1 — 2026-11-22
 
 - Synthesised items can be price-checked again, identified or not (e.g. a Synthesised Circle of Nostalgia used to find nothing).
