@@ -1,10 +1,9 @@
 {
-  "version": "0.60.0",
+  "version": "0.60.1",
   "url": "https://github.com/ceverekli-Tardiz/motha-fuckin-price-checkin/releases/latest",
   "minimum_supported": "0.0.0",
   "notes": [
-    "New Challenges tab in the Stash Tracker: your league challenge progress, read straight from your pathofexile.com profile, showing only what is left to do.",
-    "Every remaining step has a short how-to note, and challenges are grouped by when to do them: cheap and quick, while mapping, late game, and skip.",
-    "Press Refresh after finishing something and the list updates on the spot — no ticking things off by hand."
+    "The Challenges tab is now in English, like the rest of the app, tips included.",
+    "Skipped challenges show their remaining steps directly; the confusing checkbox is gone."
   ]
 }

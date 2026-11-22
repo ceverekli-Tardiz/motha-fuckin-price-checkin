@@ -23,6 +23,11 @@ Raising it strands everyone below it, so it is edited deliberately and never as 
 
 ---
 
+## 0.60.1 — 2026-11-22
+
+- The Challenges tab is now in English, like the rest of the app, tips included.
+- Skipped challenges show their remaining steps directly; the confusing checkbox is gone.
+
 ## 0.60.0 — 2026-11-22
 
 - New Challenges tab in the Stash Tracker: your league challenge progress, read straight from your pathofexile.com profile, showing only what is left to do.
