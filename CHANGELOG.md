@@ -23,6 +23,10 @@ Raising it strands everyone below it, so it is edited deliberately and never as 
 
 ---
 
+## 0.59.1 — 2026-11-22
+
+- Synthesised items can be price-checked again, identified or not (e.g. a Synthesised Circle of Nostalgia used to find nothing).
+
 ## 0.59.0 — 2026-11-22
 
 - Stash Tracker marks what may be worth money by what actually sells: jewels, cluster jewels (magic ones too), minion rings, attack gloves, and gear with two strong stats together.

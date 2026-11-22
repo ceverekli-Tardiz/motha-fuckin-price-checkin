@@ -1,10 +1,8 @@
 {
-  "version": "0.59.0",
+  "version": "0.59.1",
   "url": "https://github.com/ceverekli-Tardiz/motha-fuckin-price-checkin/releases/latest",
   "minimum_supported": "0.0.0",
   "notes": [
-    "Stash Tracker marks what may be worth money by what actually sells: jewels, cluster jewels (magic ones too), minion rings, attack gloves, and gear with two strong stats together.",
-    "Refresh in the Stash Tracker reads your tabs again for real, so items you moved out stop showing up.",
-    "Minion resistances on a ring no longer count as your own resistance when searching, so minion rings find real comparables."
+    "Synthesised items can be price-checked again, identified or not (e.g. a Synthesised Circle of Nostalgia used to find nothing)."
   ]
 }
