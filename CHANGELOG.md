@@ -23,6 +23,10 @@ Raising it strands everyone below it, so it is edited deliberately and never as 
 
 ---
 
+## 0.60.2 — 2026-11-23
+
+- Uniques no longer show the item insight card: it judged unique rolls against rare-item tiers and could call a perfect roll "low rolls". The roll quality bar under the price is the score to trust.
+
 ## 0.60.1 — 2026-11-22
 
 - The Challenges tab is now in English, like the rest of the app, tips included.

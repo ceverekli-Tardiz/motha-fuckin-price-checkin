@@ -1,9 +1,8 @@
 {
-  "version": "0.60.1",
+  "version": "0.60.2",
   "url": "https://github.com/ceverekli-Tardiz/motha-fuckin-price-checkin/releases/latest",
   "minimum_supported": "0.0.0",
   "notes": [
-    "The Challenges tab is now in English, like the rest of the app, tips included.",
-    "Skipped challenges show their remaining steps directly; the confusing checkbox is gone."
+    "Uniques no longer show the item insight card: it judged unique rolls against rare-item tiers and could call a perfect roll \"low rolls\". The roll quality bar under the price is the score to trust."
   ]
 }
