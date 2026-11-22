@@ -23,6 +23,13 @@ Raising it strands everyone below it, so it is edited deliberately and never as 
 
 ---
 
+## 0.59.0 — 2026-11-22
+
+- Stash Tracker marks what may be worth money by what actually sells: jewels, cluster jewels (magic ones too), minion rings, attack gloves, and gear with two strong stats together.
+- Refresh in the Stash Tracker reads your tabs again for real, so items you moved out stop showing up.
+- Minion resistances on a ring no longer count as your own resistance when searching, so minion rings find real comparables.
+- Pricing a stash item now searches its own item type and includes all its mods, the same way the hotkey does.
+
 ## 0.58.0 — 2026-11-22
 
 - Viscera (the Wickerman body parts) can be price-checked now, "Greater" ones included, matched on the bonus they grant.
